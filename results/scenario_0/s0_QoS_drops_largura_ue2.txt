@@ -1,0 +1,1 @@
+UE 2 throughput total: 0.0285995 Mbps

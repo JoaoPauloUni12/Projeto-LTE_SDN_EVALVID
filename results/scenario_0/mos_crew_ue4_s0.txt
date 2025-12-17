@@ -1,0 +1,4 @@
+mos <dir> <ref> [iv]
+  dir		directory with psnr*.txt files
+  ref		reference psnr file
+  iv		optional nr. of frames in interval

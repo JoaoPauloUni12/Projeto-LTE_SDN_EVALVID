@@ -1,0 +1,1 @@
+UE 3 throughput total: 0.0647116 Mbps

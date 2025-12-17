@@ -1,0 +1,1 @@
+UE 7 throughput total: 0.0647242 Mbps

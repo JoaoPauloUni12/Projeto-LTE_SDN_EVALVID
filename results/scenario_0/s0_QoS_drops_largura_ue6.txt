@@ -1,0 +1,1 @@
+UE 6 throughput total: 0.0651443 Mbps
