@@ -1,0 +1,1 @@
+UE 8 throughput total: 0.133931 Mbps

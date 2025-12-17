@@ -1,0 +1,1 @@
+UE 5 throughput total: 0.136472 Mbps
