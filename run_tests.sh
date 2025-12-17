@@ -9,6 +9,13 @@ mkdir -p "$BASE_DIR"
 
 echo "=== Gerando traces EvalVid (.st) para harbour e crew ==="
 
+
+if [ ! -f "crew_4cif.y4m" ]; then
+    echo "Baixando vídeos de teste..."
+    wget -P https://media.xiph.org/video/derf/y4m/harbour_4cif.y4m
+    wget -P https://media.xiph.org/video/derf/y4m/crew_4cif.y4m
+fi
+
 # Y4M -> MP4 -> hinted -> .st
 for base in "${VIDEOS[@]}"; do
   y4m="${base}_4cif.y4m"
