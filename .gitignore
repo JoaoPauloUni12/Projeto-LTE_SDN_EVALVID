@@ -1,0 +1,7 @@
+# Remove TODOS os resultados grandes
+results/
+*.mp4
+*.yuv
+*.y4m
+*.m4v
+*.txt  # ou só os que você NÃO quer
